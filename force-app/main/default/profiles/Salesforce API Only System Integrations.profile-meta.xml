@@ -123,6 +123,10 @@
         <apexClass>AccountHandlerTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>NewAccountHandler</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
